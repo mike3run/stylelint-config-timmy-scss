@@ -9,6 +9,9 @@
   "peerDependencies": {
     "stylelint": "^8.3.0"
   },
+  "scripts": {
+    "postversion": "git push; git push --tags; npm publish"
+  },
   "dependencies": {
     "stylelint-config-recommended-scss": "^2.0.0",
     "stylelint-no-unsupported-browser-features": "^1.0.1",
