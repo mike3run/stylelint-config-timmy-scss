@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-timmy-scss",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "scss config recommendations from Timothy Burger",
   "main": "index.js",
   "repository": "mike3run/stylelint-config-timmy-scss",
