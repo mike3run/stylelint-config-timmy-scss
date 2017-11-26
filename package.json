@@ -1,0 +1,17 @@
+{
+  "name": "stylelint-config-timmy-scss",
+  "version": "0.0.1",
+  "description": "scss config recommendations from Timothy Burger",
+  "main": "index.js",
+  "repository": "mike3run/stylelint-config-timmy-scss",
+  "author": "Miguel Palau <mpalauzarza@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": "^8.3.0"
+  },
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^2.0.0",
+    "stylelint-no-unsupported-browser-features": "^1.0.1",
+    "stylelint-scss": "^2.1.0"
+  }
+}
