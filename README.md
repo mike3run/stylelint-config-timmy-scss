@@ -1,4 +1,7 @@
 # stylelint-config-timmy-scss
+
+![Deps](https://david-dm.org/mike3run/stylelint-config-timmy-scss.svg)
+
 Scss config recommendations from Timothy Burger
 
 Your standard every day bro sass stylelint configuration:
